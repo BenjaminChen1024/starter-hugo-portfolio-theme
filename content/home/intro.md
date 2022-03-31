@@ -7,6 +7,9 @@ author: admin
 design:
   background:
     color: "#d63030"
+    gradient_start: "#6d3333"
+    gradient_end: "#9e3131"
+    text_color_light: true
 ---
 
 👋 Hi, there! I'm **Alice**, a machine learning researcher at Netflix.
