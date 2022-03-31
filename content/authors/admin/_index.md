@@ -1,5 +1,5 @@
 ---
-title: Benjamin Chen (吳恩達)
+title: Benjamin Chen (陈泽明)
 role: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
